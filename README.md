@@ -1,5 +1,7 @@
 # cheeseburger_backpack
 
+To use as a Slack Bot see https://github.com/jkvoorhis/cheeseburger_backpack_bot
+
 ## Clone Repo and Create Virtual Env
 ```
 git clone git@github.com:jkvoorhis/cheeseburger_backpack.git
